@@ -1,0 +1,10 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\bin\Debug\netcoreapp2.0\EnumSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\bin\Debug\netcoreapp2.0\EnumSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\bin\Debug\netcoreapp2.0\EnumSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\bin\Debug\netcoreapp2.0\EnumSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\bin\Debug\netcoreapp2.0\EnumSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\obj\Debug\netcoreapp2.0\EnumSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\obj\Debug\netcoreapp2.0\EnumSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\obj\Debug\netcoreapp2.0\EnumSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\obj\Debug\netcoreapp2.0\EnumSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\EnumSample\obj\Debug\netcoreapp2.0\EnumSample.pdb

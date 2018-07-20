@@ -19,6 +19,7 @@ namespace MathSample
             var math = new Math();   // instantiate a reference type
 
             // Call instance members
+            //使用的是属性
             math.Value = 30;
             WriteLine($"Value field of math variable contains {math.Value}");
             WriteLine($"Square of 30 is {math.GetSquare()}");

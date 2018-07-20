@@ -13,7 +13,7 @@ namespace EnumerationSample
     {
         static void Main()
         {
-            WriteGreeting(TimeOfDay.Morning);
+            WriteGreeting(TimeOfDay.Evening);
         }
 
         static void WriteGreeting(TimeOfDay timeOfDay)

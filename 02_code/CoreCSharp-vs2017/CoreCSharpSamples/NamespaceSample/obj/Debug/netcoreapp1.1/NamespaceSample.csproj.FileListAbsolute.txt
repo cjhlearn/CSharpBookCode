@@ -1,0 +1,10 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\bin\Debug\netcoreapp1.1\NamespaceSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\bin\Debug\netcoreapp1.1\NamespaceSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\bin\Debug\netcoreapp1.1\NamespaceSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\bin\Debug\netcoreapp1.1\NamespaceSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\bin\Debug\netcoreapp1.1\NamespaceSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\obj\Debug\netcoreapp1.1\NamespaceSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\obj\Debug\netcoreapp1.1\NamespaceSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\obj\Debug\netcoreapp1.1\NamespaceSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\obj\Debug\netcoreapp1.1\NamespaceSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\NamespaceSample\obj\Debug\netcoreapp1.1\NamespaceSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\bin\Debug\netcoreapp2.0\MathSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\bin\Debug\netcoreapp2.0\MathSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\bin\Debug\netcoreapp2.0\MathSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\bin\Debug\netcoreapp2.0\MathSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\bin\Debug\netcoreapp2.0\MathSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\obj\Debug\netcoreapp2.0\MathSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\obj\Debug\netcoreapp2.0\MathSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\obj\Debug\netcoreapp2.0\MathSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\obj\Debug\netcoreapp2.0\MathSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MathSample\obj\Debug\netcoreapp2.0\MathSample.pdb

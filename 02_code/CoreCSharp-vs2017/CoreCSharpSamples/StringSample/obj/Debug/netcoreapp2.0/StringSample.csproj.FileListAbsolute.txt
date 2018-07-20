@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp2.0\StringSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp2.0\StringSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp2.0\StringSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp2.0\StringSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\bin\Debug\netcoreapp2.0\StringSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp2.0\StringSample.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp2.0\StringSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp2.0\StringSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp2.0\StringSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp2.0\StringSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\StringSample\obj\Debug\netcoreapp2.0\StringSample.pdb

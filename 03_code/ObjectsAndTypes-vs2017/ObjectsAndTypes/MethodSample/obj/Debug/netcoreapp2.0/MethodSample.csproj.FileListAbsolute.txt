@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\bin\Debug\netcoreapp2.0\MethodSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\bin\Debug\netcoreapp2.0\MethodSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\bin\Debug\netcoreapp2.0\MethodSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\bin\Debug\netcoreapp2.0\MethodSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\bin\Debug\netcoreapp2.0\MethodSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\obj\Debug\netcoreapp2.0\MethodSample.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\obj\Debug\netcoreapp2.0\MethodSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\obj\Debug\netcoreapp2.0\MethodSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\obj\Debug\netcoreapp2.0\MethodSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\obj\Debug\netcoreapp2.0\MethodSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\MethodSample\obj\Debug\netcoreapp2.0\MethodSample.pdb

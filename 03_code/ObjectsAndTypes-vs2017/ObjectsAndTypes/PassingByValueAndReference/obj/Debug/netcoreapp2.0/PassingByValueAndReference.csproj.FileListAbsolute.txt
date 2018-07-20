@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\bin\Debug\netcoreapp2.0\PassingByValueAndReference.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\bin\Debug\netcoreapp2.0\PassingByValueAndReference.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\bin\Debug\netcoreapp2.0\PassingByValueAndReference.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\bin\Debug\netcoreapp2.0\PassingByValueAndReference.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\bin\Debug\netcoreapp2.0\PassingByValueAndReference.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\obj\Debug\netcoreapp2.0\PassingByValueAndReference.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\obj\Debug\netcoreapp2.0\PassingByValueAndReference.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\obj\Debug\netcoreapp2.0\PassingByValueAndReference.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\obj\Debug\netcoreapp2.0\PassingByValueAndReference.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\obj\Debug\netcoreapp2.0\PassingByValueAndReference.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\PassingByValueAndReference\obj\Debug\netcoreapp2.0\PassingByValueAndReference.pdb

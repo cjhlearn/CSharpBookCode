@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\bin\Debug\netcoreapp1.1\StaticConstructorSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\bin\Debug\netcoreapp1.1\StaticConstructorSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\bin\Debug\netcoreapp1.1\StaticConstructorSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\bin\Debug\netcoreapp1.1\StaticConstructorSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\bin\Debug\netcoreapp1.1\StaticConstructorSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\obj\Debug\netcoreapp1.1\StaticConstructorSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\obj\Debug\netcoreapp1.1\StaticConstructorSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\obj\Debug\netcoreapp1.1\StaticConstructorSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\obj\Debug\netcoreapp1.1\StaticConstructorSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\obj\Debug\netcoreapp1.1\StaticConstructorSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\StaticConstructorSample\obj\Debug\netcoreapp1.1\StaticConstructorSample.csprojAssemblyReference.cache

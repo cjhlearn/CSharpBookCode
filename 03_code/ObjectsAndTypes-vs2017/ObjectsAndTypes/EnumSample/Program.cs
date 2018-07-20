@@ -7,7 +7,6 @@ namespace EnumSample
     {
         static void Main()
         {
-
             DaysOfWeekSamples();
             ColorSamples();
             UsingEnumClass();
@@ -18,11 +17,13 @@ namespace EnumSample
         private static void UsingEnumClass()
         {
             Color red;
+            //TryParse声明为无论解析成功与否，都返回一个bool类型。解析的结果是使用out修饰符返回一个参数
             if (Enum.TryParse<Color>("Red", out red))
             {
                 WriteLine($"successfully parsed {red}");
             }
 
+            //Enum.GetName返回一个包含所有枚举名的字符串数组
             string redtext = Enum.GetName(typeof(Color), red);
             WriteLine(redtext);
 
@@ -31,7 +32,7 @@ namespace EnumSample
                 WriteLine(day);
             }
 
-
+            //Enum.GetValues返回枚举的所有值
             foreach (short val in Enum.GetValues(typeof(Color)))
             {
                 WriteLine(val);

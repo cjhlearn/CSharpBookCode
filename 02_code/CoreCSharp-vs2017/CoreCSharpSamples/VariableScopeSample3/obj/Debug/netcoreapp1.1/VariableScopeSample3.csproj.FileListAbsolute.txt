@@ -1,0 +1,10 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\bin\Debug\netcoreapp1.1\VariableScopeSample3.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\bin\Debug\netcoreapp1.1\VariableScopeSample3.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\bin\Debug\netcoreapp1.1\VariableScopeSample3.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\bin\Debug\netcoreapp1.1\VariableScopeSample3.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\bin\Debug\netcoreapp1.1\VariableScopeSample3.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\obj\Debug\netcoreapp1.1\VariableScopeSample3.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\obj\Debug\netcoreapp1.1\VariableScopeSample3.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\obj\Debug\netcoreapp1.1\VariableScopeSample3.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\obj\Debug\netcoreapp1.1\VariableScopeSample3.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\VariableScopeSample3\obj\Debug\netcoreapp1.1\VariableScopeSample3.pdb

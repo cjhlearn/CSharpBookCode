@@ -1,0 +1,10 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\bin\Debug\netcoreapp2.0\OutKeywordSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\bin\Debug\netcoreapp2.0\OutKeywordSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\bin\Debug\netcoreapp2.0\OutKeywordSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\bin\Debug\netcoreapp2.0\OutKeywordSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\bin\Debug\netcoreapp2.0\OutKeywordSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\obj\Debug\netcoreapp2.0\OutKeywordSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\obj\Debug\netcoreapp2.0\OutKeywordSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\obj\Debug\netcoreapp2.0\OutKeywordSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\obj\Debug\netcoreapp2.0\OutKeywordSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\OutKeywordSample\obj\Debug\netcoreapp2.0\OutKeywordSample.pdb

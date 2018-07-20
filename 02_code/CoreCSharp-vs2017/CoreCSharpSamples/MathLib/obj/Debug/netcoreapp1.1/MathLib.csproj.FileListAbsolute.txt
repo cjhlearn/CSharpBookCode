@@ -1,0 +1,8 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\bin\Debug\netcoreapp1.1\MathLib.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\bin\Debug\netcoreapp1.1\MathLib.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\bin\Debug\netcoreapp1.1\MathLib.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\obj\Debug\netcoreapp1.1\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\obj\Debug\netcoreapp1.1\MathLib.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\obj\Debug\netcoreapp1.1\MathLib.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\obj\Debug\netcoreapp1.1\MathLib.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\MathLib\obj\Debug\netcoreapp1.1\MathLib.pdb

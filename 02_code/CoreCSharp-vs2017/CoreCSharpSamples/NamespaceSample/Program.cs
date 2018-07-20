@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+        //命名空间的别名的使用
         Introduction::NamespaceExample NSEx =
           new Introduction::NamespaceExample();
         WriteLine(NSEx.GetNamespace());

@@ -1,6 +1,11 @@
 ﻿using System.Runtime.CompilerServices;
 using static System.Console;
 
+/**
+ *  属性的使用
+ *  引用类型
+ * 
+ */
 namespace PassingByValueAndReference
 {
     public class A

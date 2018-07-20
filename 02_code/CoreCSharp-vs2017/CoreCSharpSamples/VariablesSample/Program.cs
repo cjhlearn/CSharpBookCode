@@ -7,6 +7,7 @@ namespace VariablesSample
     {
         static void Main()
         {
+            //类型推断
             var name = "Bugs Bunny";
             var age = 25;
             var isRabbit = true;

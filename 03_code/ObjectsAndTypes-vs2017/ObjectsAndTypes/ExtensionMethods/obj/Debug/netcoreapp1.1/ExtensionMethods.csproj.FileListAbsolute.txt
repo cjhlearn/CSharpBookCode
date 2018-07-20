@@ -1,0 +1,10 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\bin\Debug\netcoreapp1.1\ExtensionMethods.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\bin\Debug\netcoreapp1.1\ExtensionMethods.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\bin\Debug\netcoreapp1.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\bin\Debug\netcoreapp1.1\ExtensionMethods.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\bin\Debug\netcoreapp1.1\ExtensionMethods.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\obj\Debug\netcoreapp1.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\obj\Debug\netcoreapp1.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\obj\Debug\netcoreapp1.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\obj\Debug\netcoreapp1.1\ExtensionMethods.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\03_code\ObjectsAndTypes-vs2017\ObjectsAndTypes\ExtensionMethods\obj\Debug\netcoreapp1.1\ExtensionMethods.pdb

@@ -1,5 +1,9 @@
 ﻿using System;
 
+/**
+ *  关于静态构造函数 
+ * 
+ */
 namespace StaticConstructorSample
 {
     public static class UserPreferences

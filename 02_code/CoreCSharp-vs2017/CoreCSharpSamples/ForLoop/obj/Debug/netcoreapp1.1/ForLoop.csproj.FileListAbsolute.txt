@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\bin\Debug\netcoreapp1.1\ForLoop.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\bin\Debug\netcoreapp1.1\ForLoop.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\bin\Debug\netcoreapp1.1\ForLoop.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\bin\Debug\netcoreapp1.1\ForLoop.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\bin\Debug\netcoreapp1.1\ForLoop.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\obj\Debug\netcoreapp1.1\ForLoop.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\obj\Debug\netcoreapp1.1\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\obj\Debug\netcoreapp1.1\ForLoop.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\obj\Debug\netcoreapp1.1\ForLoop.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\obj\Debug\netcoreapp1.1\ForLoop.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\ForLoop\obj\Debug\netcoreapp1.1\ForLoop.pdb

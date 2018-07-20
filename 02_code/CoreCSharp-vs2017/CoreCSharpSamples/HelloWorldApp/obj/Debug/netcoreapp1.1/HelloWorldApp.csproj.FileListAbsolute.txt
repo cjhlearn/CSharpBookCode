@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\bin\Debug\netcoreapp1.1\HelloWorldApp.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\HelloWorldApp\obj\Debug\netcoreapp1.1\HelloWorldApp.pdb

@@ -1,5 +1,9 @@
 ﻿using static System.Console;
 
+/**
+ *  类型转换的两种方式 
+ * 
+ */
 namespace OutKeywordSample
 {
     class Program

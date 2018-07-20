@@ -1,5 +1,9 @@
 ﻿using System;
 
+/**
+ * 设定枚举类型short
+ * 
+ * */
 namespace EnumSample
 {
     public enum Color : short

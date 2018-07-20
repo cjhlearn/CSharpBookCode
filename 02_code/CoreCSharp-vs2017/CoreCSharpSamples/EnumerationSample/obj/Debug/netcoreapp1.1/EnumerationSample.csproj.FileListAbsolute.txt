@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\bin\Debug\netcoreapp1.1\EnumerationSample.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\02_code\CoreCSharp-vs2017\CoreCSharpSamples\EnumerationSample\obj\Debug\netcoreapp1.1\EnumerationSample.pdb

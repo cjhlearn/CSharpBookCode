@@ -1,6 +1,6 @@
-﻿using ExtensionMethods.Foo;
+﻿//using ExtensionMethods.Foo;
 using static System.Console;
-// using ExtensionMethods.Bar; // importing both namespaces creates an ambiguous compiler error
+using ExtensionMethods.Bar; // importing both namespaces creates an ambiguous compiler error
 
 namespace ExtensionMethods
 {
@@ -8,6 +8,7 @@ namespace ExtensionMethods
     {
         public static class StringExtensions
         {
+            //扩展方法（是静态方式），关键在于静态及this
             public static int GetWordCount(this string s) =>
                 s.Split().Length;
             
