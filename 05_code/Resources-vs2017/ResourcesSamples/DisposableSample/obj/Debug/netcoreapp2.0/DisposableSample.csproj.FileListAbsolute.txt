@@ -1,0 +1,11 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\bin\Debug\netcoreapp2.0\DisposableSample.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\bin\Debug\netcoreapp2.0\DisposableSample.runtimeconfig.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\bin\Debug\netcoreapp2.0\DisposableSample.runtimeconfig.dev.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\bin\Debug\netcoreapp2.0\DisposableSample.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\bin\Debug\netcoreapp2.0\DisposableSample.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\obj\Debug\netcoreapp2.0\DisposableSample.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\obj\Debug\netcoreapp2.0\DisposableSample.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\obj\Debug\netcoreapp2.0\DisposableSample.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\obj\Debug\netcoreapp2.0\DisposableSample.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\obj\Debug\netcoreapp2.0\DisposableSample.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\DisposableSample\obj\Debug\netcoreapp2.0\DisposableSample.pdb

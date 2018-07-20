@@ -1,0 +1,11 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\netcoreapp2.0\GetAStringDemo.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\netcoreapp2.0\GetAStringDemo.runtimeconfig.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\netcoreapp2.0\GetAStringDemo.runtimeconfig.dev.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\netcoreapp2.0\GetAStringDemo.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\bin\Debug\netcoreapp2.0\GetAStringDemo.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\obj\Debug\netcoreapp2.0\GetAStringDemo.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\obj\Debug\netcoreapp2.0\GetAStringDemo.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\obj\Debug\netcoreapp2.0\GetAStringDemo.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\obj\Debug\netcoreapp2.0\GetAStringDemo.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\obj\Debug\netcoreapp2.0\GetAStringDemo.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\GetAStringDemo\obj\Debug\netcoreapp2.0\GetAStringDemo.pdb

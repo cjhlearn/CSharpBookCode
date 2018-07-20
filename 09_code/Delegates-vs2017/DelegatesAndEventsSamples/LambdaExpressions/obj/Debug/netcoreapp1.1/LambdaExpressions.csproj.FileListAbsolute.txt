@@ -1,0 +1,11 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp1.1\LambdaExpressions.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp1.1\LambdaExpressions.runtimeconfig.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp1.1\LambdaExpressions.runtimeconfig.dev.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp1.1\LambdaExpressions.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\bin\Debug\netcoreapp1.1\LambdaExpressions.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp1.1\LambdaExpressions.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp1.1\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp1.1\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp1.1\LambdaExpressions.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp1.1\LambdaExpressions.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\LambdaExpressions\obj\Debug\netcoreapp1.1\LambdaExpressions.pdb

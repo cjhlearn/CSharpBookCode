@@ -1,0 +1,11 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.runtimeconfig.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.runtimeconfig.dev.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\bin\Debug\netcoreapp2.0\AnonymousMethods.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\AnonymousMethods\obj\Debug\netcoreapp2.0\AnonymousMethods.pdb

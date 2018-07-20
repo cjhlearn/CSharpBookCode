@@ -1,0 +1,11 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.runtimeconfig.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.runtimeconfig.dev.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\bin\Debug\netcoreapp2.0\SimpleDelegates.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\SimpleDelegates\obj\Debug\netcoreapp2.0\SimpleDelegates.pdb

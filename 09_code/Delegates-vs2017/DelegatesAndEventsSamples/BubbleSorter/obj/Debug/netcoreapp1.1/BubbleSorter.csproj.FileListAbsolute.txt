@@ -1,0 +1,11 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp1.1\BubbleSorter.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp1.1\BubbleSorter.runtimeconfig.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp1.1\BubbleSorter.runtimeconfig.dev.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp1.1\BubbleSorter.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\bin\Debug\netcoreapp1.1\BubbleSorter.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp1.1\BubbleSorter.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp1.1\BubbleSorter.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp1.1\BubbleSorter.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp1.1\BubbleSorter.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp1.1\BubbleSorter.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\BubbleSorter\obj\Debug\netcoreapp1.1\BubbleSorter.pdb

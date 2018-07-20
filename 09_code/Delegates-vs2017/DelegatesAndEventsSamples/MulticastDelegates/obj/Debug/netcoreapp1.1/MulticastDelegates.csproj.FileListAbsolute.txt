@@ -1,0 +1,11 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\netcoreapp1.1\MulticastDelegates.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\netcoreapp1.1\MulticastDelegates.runtimeconfig.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\netcoreapp1.1\MulticastDelegates.runtimeconfig.dev.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\netcoreapp1.1\MulticastDelegates.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\bin\Debug\netcoreapp1.1\MulticastDelegates.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\obj\Debug\netcoreapp1.1\MulticastDelegates.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\obj\Debug\netcoreapp1.1\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\obj\Debug\netcoreapp1.1\MulticastDelegates.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\obj\Debug\netcoreapp1.1\MulticastDelegates.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\obj\Debug\netcoreapp1.1\MulticastDelegates.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\09_code\Delegates-vs2017\DelegatesAndEventsSamples\MulticastDelegates\obj\Debug\netcoreapp1.1\MulticastDelegates.pdb

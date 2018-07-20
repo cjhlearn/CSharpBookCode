@@ -1,0 +1,9 @@
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\bin\Debug\netstandard1.4\PInvokeSampleLib.deps.json
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\bin\Debug\netstandard1.4\PInvokeSampleLib.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\bin\Debug\netstandard1.4\PInvokeSampleLib.pdb
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\obj\Debug\netstandard1.4\PInvokeSampleLib.csprojAssemblyReference.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\obj\Debug\netstandard1.4\PInvokeSampleLib.csproj.CoreCompileInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\obj\Debug\netstandard1.4\PInvokeSampleLib.AssemblyInfoInputs.cache
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\obj\Debug\netstandard1.4\PInvokeSampleLib.AssemblyInfo.cs
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\obj\Debug\netstandard1.4\PInvokeSampleLib.dll
+C:\Working\workspace\VS-workspace\CSharpBookCode\05_code\Resources-vs2017\ResourcesSamples\PInvokeSampleLib\obj\Debug\netstandard1.4\PInvokeSampleLib.pdb

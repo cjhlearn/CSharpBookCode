@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "PinvokeSample/1.0.0": {
+        "dependencies": {
+          "PInvokeSampleLib": "1.0.0"
+        },
+        "runtime": {
+          "PinvokeSample.dll": {}
+        }
+      },
+      "PInvokeSampleLib/1.0.0": {
+        "runtime": {
+          "PInvokeSampleLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PinvokeSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PInvokeSampleLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
