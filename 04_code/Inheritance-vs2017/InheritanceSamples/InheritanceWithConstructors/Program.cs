@@ -12,6 +12,7 @@ namespace InheritanceWithConstructors
             r.Position.Y = 22;
             r.Size.Width = 200;
             r.Size.Height = 100;
+
             r.Draw();
             DrawShape(r);
 

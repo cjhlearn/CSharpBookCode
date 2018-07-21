@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\bin\Debug\netcoreapp1.1\VirtualMethods.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\bin\Debug\netcoreapp1.1\VirtualMethods.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\bin\Debug\netcoreapp1.1\VirtualMethods.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\bin\Debug\netcoreapp1.1\VirtualMethods.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\bin\Debug\netcoreapp1.1\VirtualMethods.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\obj\Debug\netcoreapp1.1\VirtualMethods.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\obj\Debug\netcoreapp1.1\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\obj\Debug\netcoreapp1.1\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\obj\Debug\netcoreapp1.1\VirtualMethods.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\obj\Debug\netcoreapp1.1\VirtualMethods.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\VirtualMethods\obj\Debug\netcoreapp1.1\VirtualMethods.pdb

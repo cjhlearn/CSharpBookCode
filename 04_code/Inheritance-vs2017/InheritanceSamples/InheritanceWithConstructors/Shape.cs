@@ -22,6 +22,7 @@ namespace InheritanceWithConstructors
         {
             Size = new Size { Width = width, Height = height };
             Position = new Position { X = x, Y = y };
+            WriteLine("Shape(int width, int height, int x, int y)");
         }
 
         public Position Position { get; }

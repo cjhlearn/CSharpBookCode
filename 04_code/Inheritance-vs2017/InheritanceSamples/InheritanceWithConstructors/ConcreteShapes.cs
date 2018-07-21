@@ -7,13 +7,13 @@ namespace InheritanceWithConstructors
         public Rectangle(int width, int height, int x, int y)
             : base(width, height, x, y)
         {
-
+            WriteLine("Rectangle(int width, int height, int x, int y)");
         }
 
         public Rectangle()
             : base(width: 0, height: 0, x: 0, y: 0)
         {
-
+            WriteLine("Rectangle()");
         }
 
         public override void Draw() =>

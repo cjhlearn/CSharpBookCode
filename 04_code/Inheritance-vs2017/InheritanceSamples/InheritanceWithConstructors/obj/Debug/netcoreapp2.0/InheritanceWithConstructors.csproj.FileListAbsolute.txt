@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\bin\Debug\netcoreapp2.0\InheritanceWithConstructors.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\bin\Debug\netcoreapp2.0\InheritanceWithConstructors.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\bin\Debug\netcoreapp2.0\InheritanceWithConstructors.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\bin\Debug\netcoreapp2.0\InheritanceWithConstructors.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\bin\Debug\netcoreapp2.0\InheritanceWithConstructors.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\obj\Debug\netcoreapp2.0\InheritanceWithConstructors.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\obj\Debug\netcoreapp2.0\InheritanceWithConstructors.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\obj\Debug\netcoreapp2.0\InheritanceWithConstructors.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\obj\Debug\netcoreapp2.0\InheritanceWithConstructors.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\obj\Debug\netcoreapp2.0\InheritanceWithConstructors.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\InheritanceWithConstructors\obj\Debug\netcoreapp2.0\InheritanceWithConstructors.csprojAssemblyReference.cache

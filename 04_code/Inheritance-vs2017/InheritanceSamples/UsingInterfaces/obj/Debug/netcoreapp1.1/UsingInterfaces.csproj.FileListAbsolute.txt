@@ -1,0 +1,11 @@
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\bin\Debug\netcoreapp1.1\UsingInterfaces.deps.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\bin\Debug\netcoreapp1.1\UsingInterfaces.runtimeconfig.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\bin\Debug\netcoreapp1.1\UsingInterfaces.runtimeconfig.dev.json
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\bin\Debug\netcoreapp1.1\UsingInterfaces.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\bin\Debug\netcoreapp1.1\UsingInterfaces.pdb
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\obj\Debug\netcoreapp1.1\UsingInterfaces.csprojAssemblyReference.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\obj\Debug\netcoreapp1.1\UsingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\obj\Debug\netcoreapp1.1\UsingInterfaces.AssemblyInfoInputs.cache
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\obj\Debug\netcoreapp1.1\UsingInterfaces.AssemblyInfo.cs
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\obj\Debug\netcoreapp1.1\UsingInterfaces.dll
+C:\Users\SPGZ\Source\Repos\CSharpBookCode\04_code\Inheritance-vs2017\InheritanceSamples\UsingInterfaces\obj\Debug\netcoreapp1.1\UsingInterfaces.pdb
